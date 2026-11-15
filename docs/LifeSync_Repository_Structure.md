@@ -31,7 +31,6 @@ This document is intended as context for **Kimi Code running in a GitHub Codespa
 | Routing | OpenRouter | OpenAI-compatible client with structured routing output |
 | Interface | Telegram | Allowlisted single-user bot entrypoint |
 
-**Yazio is removed completely.** Do not create Yazio environment variables, adapters, tests, login automation, or export tooling.
 
 ## Recommended Repository Structure
 
